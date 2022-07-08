@@ -1,0 +1,44 @@
+/* styles.css */
+
+* {
+    background-color: burlywood;
+    color: black;
+    text-align: left;
+}
+
+.recipe-title {
+    color: red;
+}
+
+.recipe_image {
+    height: 300px;
+    width: 300px;
+    align-items: center;
+    
+}
+
+.info {
+    text-align: center;
+}
+
+.recipe-description {
+    text-align: center;
+}
+
+.ingredients {
+    color:darkcyan;
+}
+
+.ingredients-list {
+    color:aqua;
+}
+
+.method {
+    text-align: right;
+    color:crimson;
+}
+
+.method-list {
+    text-align: right;
+    color: crimson;
+}
